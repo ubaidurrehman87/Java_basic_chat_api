@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.008" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Personal\Practice\Afif\PlayerCommunication\target\test-classes;D:\Personal\Practice\Afif\PlayerCommunication\target\classes;C:\Users\Ubaid Rehman\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Tools\jdk1.8.0_221\bin"/>
+    <property name="sun.java.command" value="C:\Users\Ubaid Rehman\AppData\Local\Temp\surefire7864531208359586809\surefirebooter-20231120125945236_3.jar C:\Users\Ubaid Rehman\AppData\Local\Temp\surefire7864531208359586809 2023-11-20T12-59-45_017-jvmRun1 surefire-20231120125945236_1tmp surefire_0-20231120125945236_2tmp"/>
+    <property name="surefire.test.class.path" value="D:\Personal\Practice\Afif\PlayerCommunication\target\test-classes;D:\Personal\Practice\Afif\PlayerCommunication\target\classes;C:\Users\Ubaid Rehman\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Ubaid Rehman"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\Tools\jdk1.8.0_221"/>
+    <property name="basedir" value="D:\Personal\Practice\Afif\PlayerCommunication"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ubaid Rehman\AppData\Local\Temp\surefire7864531208359586809\surefirebooter-20231120125945236_3.jar"/>
+    <property name="sun.boot.class.path" value="D:\Tools\jdk1.8.0_221\lib\resources.jar;D:\Tools\jdk1.8.0_221\lib\rt.jar;D:\Tools\jdk1.8.0_221\lib\sunrsasign.jar;D:\Tools\jdk1.8.0_221\lib\jsse.jar;D:\Tools\jdk1.8.0_221\lib\jce.jar;D:\Tools\jdk1.8.0_221\lib\charsets.jar;D:\Tools\jdk1.8.0_221\lib\jfr.jar;D:\Tools\jdk1.8.0_221\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_221-b11"/>
+    <property name="user.name" value="Ubaid Rehman"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\Tools\jdk1.8.0_221\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Ubaid Rehman\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\UBAIDR~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_221"/>
+    <property name="user.dir" value="D:\Personal\Practice\Afif\PlayerCommunication"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\Tools\jdk1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Tools\jdk1.8.0_221\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\cvsnt;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git LFS;D:\Tools\Ant\bin;D:/Tools/NSConnect/Tomcat-9.0.52\bin;C:\Program Files\nodejs\;C:\Program Files\heroku\bin;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files\Git\cmd;C:\Program Files\PostgreSQL\15\bin;C:\Users\Ubaid Rehman\.jpm\windows\bin;D:\Tools\jdk1.8.0_221\bin;C:\Users\Ubaid Rehman\AppData\Local\Microsoft\WindowsApps;C:\Users\Ubaid Rehman\AppData\Roaming\npm;C:\Users\Ubaid Rehman\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin\mysql.exe;C:\Program Files\heroku\bin;D:\Tools\Maven\apache-maven-3.9.2-bin\apache-maven-3.9.2\bin;D:\Tools\Stripe\stripe_1.14.7_windows_x86_64;D:\Personal\Dev\Flutter\flutter\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="java.ext.dirs" value="D:\Tools\jdk1.8.0_221\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.001"/>
+</testsuite>
